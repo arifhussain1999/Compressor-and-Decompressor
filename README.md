@@ -1,6 +1,5 @@
 # Compressor-and-Decompressor
-# Description:
-The "File Compression and Decompression Utility" project is developed using Java Swing, aiming to efficiently compress and decompress files on your computer that occupy significant storage space.
+
 
 # Compressor:
 The compressor component of this utility employs advanced algorithms to reduce the file size of selected files, resulting in efficient compression. The compressed files are easily accessible and can be conveniently shared with others. By utilizing this functionality, users can significantly decrease both the time required for file transfers and the storage space occupied by their files.
